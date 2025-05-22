@@ -5,7 +5,7 @@
 ---
 
 ### 🧑‍🎓 About Me  
-- First-year **Mechanical and Automation Engineering** student  
+- First-year **Mechanical and Automation Engineering** student (2024-2028)  
 - Passionate about **game physics** (currently learning what I call “Collision Physics”)  
 - Self-learning **C++ and Raylib** to build games from scratch  
 - Former **Volleyball player**, now diving into code and problem solving  
@@ -49,4 +49,4 @@
 
 ---
 
-> "Didn’t have the hardware, but I had the hunger. Started with a laptop, and a dream."
+> "Didn’t have the money for hardware, but I had the hunger. Started with just a laptop, diving into programming — and a dream."
