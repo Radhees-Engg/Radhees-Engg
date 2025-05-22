@@ -8,7 +8,8 @@
 - **Mechanical and Automation Engineering** student (2024-2028)  
 - Passionate about **game physics** (currently learning what I call “Collision Physics”)  
 - Self-learning **C++ and Raylib** to build games from scratch  
-- Former **Volleyball player**, now diving into code and problem solving  
+- Former **Volleyball player**, now diving into code and problem solving
+- I'm from India, Tamilnadu
 - Mother tongue: **தமிழ் (Tamil)**  
 - Comfortable in **English**  
 - I love exploring and deeply **respect cultures**
