@@ -10,7 +10,7 @@
 - Self-learning **C++ and Raylib** to build games from scratch  
 - Former **Volleyball player**, now diving into code and problem solving  
 - Mother tongue: **தமிழ் (Tamil)**  
-- Fluent in **English**  
+- Comfortable in **English**  
 - I love exploring and deeply **respect cultures**
 
 ---
